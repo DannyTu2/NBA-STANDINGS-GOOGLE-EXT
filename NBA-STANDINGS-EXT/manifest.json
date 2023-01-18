@@ -1,0 +1,16 @@
+{
+    "name": "NBA 2022 STANDINGS",
+    "version": "1.0.0",
+    "description": "This is an extension to look up the NBA 2022 STANDINGS",
+    "icons": {
+
+    "128": "./icons/nba-2-icon.png"
+
+    },
+    "manifest_version": 3,
+    "author": "Danny Tu",
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "NBA 2022 STANDINGS"
+    }
+}
